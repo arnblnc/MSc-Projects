@@ -1,4 +1,4 @@
-# Robotics Kinematics Analysis Repository
+# Robotics Kinematics Analysis Group Project
 ## Description
 This repository houses a comprehensive group report on the kinematics analysis of robotic systems. As the field of robotics continues to evolve and find applications across diverse industries, understanding the intricacies of robot movement and mechanics is essential.
 
