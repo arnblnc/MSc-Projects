@@ -1,4 +1,4 @@
-# MSc-Projects
+# MSc Robotics Projects
 
 ## Description
 Contains all projects completed in my MSc at King's College London
