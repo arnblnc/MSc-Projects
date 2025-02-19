@@ -14,4 +14,4 @@ Each folder is a seperate module undertaken in my postgraduate degree
 - Programming with pthreads (Real-Time Systems and Control)
 - Concurrency and Control (Real-Time Systems and Control)
 - Sensor Selection & Measurement (Sensors and Actuators)
-- Compartive Analysis (Sensors and Actuators)
+- Comparative Analysis (Sensors and Actuators)
