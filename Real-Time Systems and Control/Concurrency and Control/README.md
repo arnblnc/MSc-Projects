@@ -19,5 +19,5 @@ This repository contains a report on concurrent programming and control systems,
 - Affordability Analysis: Evaluates whether a borrower’s repayment strategy is financially sustainable.
 
 ## Files
-6CCE3RSC_7CCEMRTS Alternative Assignment.pdf – The original assignment brief.
-Assignment - Concurrency and Control.pdf – The completed report with answers, explanations, and pseudocode.
+Assignment Brief.pdf – The original assignment brief.
+Concurrency and Control.pdf – The completed report with answers, explanations, and pseudocode.
