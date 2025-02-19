@@ -11,3 +11,5 @@ Each folder is a seperate module undertaken in my postgraduate degree
 - Robotics Kinematics Analysis
 - Binary Prediction
 - Binary Classification
+- Programming with pthreads
+- Concurrency and Control
