@@ -1,6 +1,6 @@
 # Topics on Data and Signal Analysis (TDS) Assignment
 ## Description
-This repository contains a report on data and signal analysis, covering vector spaces, Fourier transforms, filter banks, and wavelet transforms. The assignment explores key mathematical concepts and their applications in signal processing.
+This repository contains a report on data and signal analysis, covering vector spaces, Fourier transforms, filter banks, and wavelet transforms. The assignment explores key mathematical concepts and their applications in signal processing. Grade - 60%
 
 ## Key Highlights
 ### Linear Algebra & Vector Spaces
