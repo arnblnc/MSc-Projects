@@ -15,3 +15,4 @@ Each folder is a seperate module undertaken in my postgraduate degree
 - Concurrency and Control (Real-Time Systems and Control)
 - Sensor Selection & Measurement (Sensors and Actuators)
 - Comparative Analysis (Sensors and Actuators)
+- TDS Assignment (Topics on signal and Data Analysis)
